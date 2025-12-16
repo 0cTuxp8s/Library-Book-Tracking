@@ -1,0 +1,5 @@
+BookTitle,BorrowerName,Email,Phone,BorrowDate,DueDate
+"The Alchemist","Alice Cooper","alice.c@email.com","555-0201","2024-03-01","2024-03-15"
+"Harry Potter and the Philosopher's Stone","Bob Miller","bob.m@email.com","555-0202","2024-03-05","2024-03-19"
+"The Da Vinci Code","Carol White","carol.w@email.com","555-0203","2024-03-10","2024-03-24"
+
